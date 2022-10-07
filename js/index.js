@@ -1,3 +1,4 @@
+console.log("%c青云依兮", "color: #6d85c1; font-size: 2.5em;");
 var audio = document.getElementById('audio');
 audio.play();
 var lis = document.querySelectorAll('ul.jj li');
